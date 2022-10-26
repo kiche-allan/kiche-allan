@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **allankiche18@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AkVkzctC6-3IiKwtwHRl3KF7-KDBqw?e=IQorb6](https://1drv.ms/b/s!AkVkzctC6-3IiKwtwHRl3KF7-KDBqw?e=IQorb6)
+- 📄 Know about my experiences via my resume -  [https://1drv.ms/b/s!AkVkzctC6-3IiKwtwHRl3KF7-KDBqw?e=IQorb6](https://1drv.ms/b/s!AkVkzctC6-3IiKwtwHRl3KF7-KDBqw?e=IQorb6)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
