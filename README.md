@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer and Full Stack Developer || The MERN Stack || Python -DSA</h3>
 
 
-- 🔭 I’m currently working on [Data Structures and Algorithm on](https://github.com/kiche-allan/Python-DSA)
+- 🔭 I’m currently working on [Data Structures and Algorithm ](https://github.com/kiche-allan/Python-DSA)
 
 - 🌱 I’m currently learning **Azure , MERN Stack and Python DSA**
 
