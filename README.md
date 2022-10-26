@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Allan Kiche</h1>
 <h3 align="center">Software Engineer and Full Stack Developer || The MERN Stack || Python -DSA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiche-allan&label=Profile%20views&color=0e75b6&style=flat" alt="kiche-allan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiche-allan" alt="kiche-allan" /></a> </p>
 
 - 🔭 I’m currently working on [Data Structures and Algorithm on](https://github.com/kiche-allan/Python-DSA)
 
