@@ -28,7 +28,7 @@ c
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div><h2>React, Redux, React Query</h2><h2>Node, Express</h2><h2>MongoDb</h2><h2>Azure</h2></div>     
+<div><h2>React, Redux, React Query</h2><h2>Node, Express</h2><h2>MongoDb</h2><h2>Azure Cloud</h2><h2>Python -DSA, ML</h2</div>     
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiche-allan&show_icons=true&locale=en&layout=compact" alt="kiche-allan" /></p>
 
