@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@allankiche18](https://medium.com/@allankiche18)
 
-- 💬 Ask me about **React, Node, Express, Redux, MongoDb**
+- 💬 Ask me about **React, Node, Express, Redux, MongoDb, Flutter, WordPress**
 
 - 📫 How to reach me **allankiche18@gmail.com**
 
