@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [Data Structures and Algorithm ](https://github.com/kiche-allan/Data-Structures-In-Python)
 
-- 🌱 I’m currently learning **Azure , MERN Stack and Python DSA**
+- 🌱 Building Projects in  **React, Node, WordPress and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kiche-allan](https://github.com/kiche-allan)
 
-- 📝 I regularly write articles on [https://medium.com/@allankiche18](https://medium.com/@allankiche18)
+- 📝 I regularly write articles on [https://kiche-allan.hashnode.dev/](https://kiche-allan.hashnode.dev/)
 
 - 💬 Ask me about **React, Node, Express, Redux, MongoDb, Flutter, WordPress**
 
