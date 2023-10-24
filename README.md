@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer and Full Stack Developer || The MERN Stack || Python -DSA</h3>
 
 
-- 🔭 I’m currently working on [Data Structures and Algorithm ](https://github.com/kiche-allan/Data-Structures-In-Python)
+- 🔭 I’m currently working on [Data Structures and Algorithm ](https://github.com/kiche-allan/Everything-Data-Structures)
 
 - 🌱 Building Projects in  **React, Node, WordPress and Flutter**
 
