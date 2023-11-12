@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allan Kiche</h1>
-<h3 align="center">Software Engineer and FrontEnd Developer || The MERN Stack  -DSA</h3>
+<h3 align="center">Software Engineer and FrontEnd Developer || The MERN Stack  </h3>
 
 
 - 🔭 I’m currently working on [Data Structures and Algorithm ](https://github.com/kiche-allan/Everything-Data-Structures)
