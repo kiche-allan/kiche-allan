@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Allan Kiche</h1>
 <h3 align="center">Software Engineer || The MERN Stack  </h3>
 
-
-- 🔭 I’m currently working on [Data Structures and Algorithm ](https://github.com/kiche-allan/Everything-Data-Structures)
-
 - 🌱 Building Projects in  **React, Node, WordPress and Flutter**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kiche-allan](https://github.com/kiche-allan)
 
 - 📝 I regularly write articles on [https://kiche-allan.hashnode.dev/](https://kiche-allan.hashnode.dev/)
 
