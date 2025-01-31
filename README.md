@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allan Kiche</h1>
-<h3 align="center">Software Engineer || The MERN Stack  </h3>
+<h3 align="center">Software Engineer  </h3>
 
 - 🌱 Building Projects in  **React, Node, WordPress and Flutter**
 
