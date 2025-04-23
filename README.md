@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Allan Kiche</h1>
 <h3 align="center">Software Engineer  </h3>
 
-- 🌱 Building Projects in  **React, Node, WordPress and Flutter**
-
-- 📝 I regularly write articles on [https://kiche-allan.hashnode.dev/](https://kiche-allan.hashnode.dev/)
-
-- 💬 Ask me about **React, Node, Express, Redux, MongoDb, Flutter, WordPress**
-
-- 📫 How to reach me **allankiche18@gmail.com**
-
-- 📄 Know about my experiences via my resume -  [https://1drv.ms/b/s!AkVkzctC6-3IiKwtwHRl3KF7-KDBqw?e=IQorb6](https://1drv.ms/b/s!AkVkzctC6-3IiKwtwHRl3KF7-KDBqw?e=IQorb6)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
